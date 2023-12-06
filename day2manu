@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+    
+<h1> The input readonly attribute </h1>
+<p> The cindrella strory  it is a beautiful story<br>
+    
+<form>
+  <label for="fname"> first name:</label><br>
+  <input type="text" id="fname"name="fname" value="manush" readonly><br>
+  <label for="lname" >lastnameL:</label><br>
+  <input type="text"id="lname" name="lname" value="vikki"><br><br>
+  <input type="submit" value="submit">
+</form>
+
+</body>
+</html>    
